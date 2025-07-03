@@ -9,7 +9,7 @@ plugins {
 
 android {
     namespace "com.isaacudy.archunit.example"
-    compileSdk 34
+    compileSdk 36
 
     defaultConfig {
         applicationId "com.isaacudy.archunit.example"
